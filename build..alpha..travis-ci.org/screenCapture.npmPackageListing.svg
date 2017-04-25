@@ -1,17 +1,16 @@
-<svg height="222" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="222" fill="#555" width="720"></rect>
+<svg height="206" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="206" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 14:42:33 +0000    62083 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 14:42:33 +0000     1061 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 14:42:33 +0000     6479 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 14:42:33 +0000      589 bytes  lib/cache.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 14:42:33 +0000    10854 bytes  lib/formats.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 14:42:33 +0000     5032 bytes  lib/index.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 14:42:33 +0000    10533 bytes  lib/info.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 14:42:33 +0000     1181 bytes  lib/request.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 14:42:33 +0000     6702 bytes  lib/sig.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 14:42:33 +0000    10687 bytes  lib/util.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 14:42:33 +0000     3120 bytes  package.json</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 14:42:33 +0000     5845 bytes  typings/index.d.ts</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 06:22:42 +0000    60179 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 06:22:42 +0000     1061 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 06:22:42 +0000     6427 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 06:22:42 +0000      589 bytes  lib/cache.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 06:22:42 +0000    10854 bytes  lib/formats.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 06:22:42 +0000     4790 bytes  lib/index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 06:22:42 +0000     9989 bytes  lib/info.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 06:22:42 +0000     6715 bytes  lib/sig.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 06:22:42 +0000    10727 bytes  lib/util.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 06:22:42 +0000     3182 bytes  package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 06:22:42 +0000     5845 bytes  typings/index.d.ts</tspan>
 </text>
 </svg>

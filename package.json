@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [ytdl-core (v0.12.1)](https://github.com/fent/node-ytdl-core#readme) [![npm package](https://img.shields.io/npm/v/npmtest-ytdl-core.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ytdl-core) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ytdl-core.svg)](https://travis-ci.org/npmtest/node-npmtest-ytdl-core)",
+    "description": "#### basic test coverage for  [ytdl-core (v0.13.1)](https://github.com/fent/node-ytdl-core#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ytdl-core.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ytdl-core) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ytdl-core.svg)](https://travis-ci.org/npmtest/node-npmtest-ytdl-core)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "utility2": "kaizhu256/node-utility2#alpha",
